@@ -4,3 +4,5 @@ https://validator.w3.org
 w3c validator extension
 live server extension- refreshes html and css automatically
 
+duplicate the line- shift+alt+down key
+
