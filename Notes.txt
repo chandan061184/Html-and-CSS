@@ -6,3 +6,7 @@ live server extension- refreshes html and css automatically
 
 duplicate the line- shift+alt+down key
 
+https://fonts.google.com/
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+https://fonts.googleapis.com/css?family=Montserrat:400,600
